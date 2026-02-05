@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello world! 👋
 
-<!--
-**joaovictorgois000/joaovictorgois000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia da Computação, apaixonado por programação e tecnologia, sempre buscando aprender na prática e transformar estudo em projetos reais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Atualmente
+- Desenvolvendo projetos pessoais  
+- Estudando boas práticas e fundamentos da programação  
+- Explorando diferentes áreas da computação  
+
+---
+
+## 👀 Curiosidades
+- Tenho um casal de labradores 🐶⬛ | 🐶🤍
+- Amo café e comida boa ☕
+- Linkin Park na veia 🎸🔥
