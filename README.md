@@ -12,6 +12,6 @@ Sou estudante de Engenharia da Computação, apaixonado por programação e tecn
 ---
 
 ## 👀 Curiosidades
-- Tenho um casal de labradores 🐶⬛ | 🐶🤍
+- Tenho três labradores 🐶🤎 | 🐶🤍 | 🐶🖤
 - Amo café e comida boa ☕
 - Linkin Park na veia 🎸🔥
